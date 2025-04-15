@@ -22,7 +22,7 @@ composer require onliner/command-bus-bundle
 or add this code line to the `require` section of your `composer.json` file:
 
 ```
-"onliner/command-bus-bundle": "^0.1.0"
+"onliner/command-bus-bundle": "^0.2.0"
 ```
 
 and modify for your needs.
